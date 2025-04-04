@@ -24,7 +24,7 @@ Ao retornar a página inicial após concluídos os passos anteriores, é possív
 Ao acessar o serviço é possível carregar o texto a ser analisado, selecionar sua linguagem e também ativar a opção de opinion mining. Para esse experimento, selecionei um capítulo do livro Five Night At Freddy's Olhos Prateados. 
 
 <div align="center">
-    <img src="readmeFiles/1.PNG" alt="Language Studio Services" width="800"/>
+    <img src="readmeFiles/01.JPEG" alt="Language Studio Services" width="800"/>
 </div>
 
 ### 📈 Dados Quantitativos
